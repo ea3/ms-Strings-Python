@@ -182,6 +182,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="664" y="139" key="CommitChangelistDialog2" timestamp="1579667867032">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state x="664" y="139" key="CommitChangelistDialog2/49.23.1631.1027@49.23.1631.1027" timestamp="1579667867032" />
     <state width="686" height="268" key="GridCell.Tab.0.bottom" timestamp="1579667706633">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
@@ -198,5 +202,9 @@
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
     <state width="686" height="268" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1579667706633" />
+    <state x="926" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579667879213">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state x="926" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/49.23.1631.1027@49.23.1631.1027" timestamp="1579667879213" />
   </component>
 </project>
