@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3675ef57-3f86-4c90-bac8-106c548fa740" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/repfields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formatting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +41,8 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Python.repfields">
-    <configuration name="operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.formatting">
+    <configuration name="formatting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/formatting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.formatting" />
         <item itemvalue="Python.repfields" />
         <item itemvalue="Python.sequence_operators" />
         <item itemvalue="Python.sliceback" />
         <item itemvalue="Python.strings2" />
-        <item itemvalue="Python.operators" />
       </list>
     </recent_temporary>
   </component>
@@ -203,22 +203,22 @@
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
     <state x="664" y="139" key="CommitChangelistDialog2/49.23.1631.1027@49.23.1631.1027" timestamp="1579667867032" />
-    <state width="912" height="268" key="GridCell.Tab.0.bottom" timestamp="1579671151892">
+    <state width="838" height="245" key="GridCell.Tab.0.bottom" timestamp="1579672467824">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="912" height="268" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1579671151892" />
-    <state width="912" height="268" key="GridCell.Tab.0.center" timestamp="1579671151892">
+    <state width="838" height="245" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1579672467824" />
+    <state width="838" height="245" key="GridCell.Tab.0.center" timestamp="1579672467823">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="912" height="268" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1579671151892" />
-    <state width="912" height="268" key="GridCell.Tab.0.left" timestamp="1579671151891">
+    <state width="838" height="245" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1579672467823" />
+    <state width="838" height="245" key="GridCell.Tab.0.left" timestamp="1579672467823">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="912" height="268" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1579671151891" />
-    <state width="912" height="268" key="GridCell.Tab.0.right" timestamp="1579671151892">
+    <state width="838" height="245" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1579672467823" />
+    <state width="838" height="245" key="GridCell.Tab.0.right" timestamp="1579672467824">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="912" height="268" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1579671151892" />
+    <state width="838" height="245" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1579672467824" />
     <state x="926" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579667879213">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
