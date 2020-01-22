@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3675ef57-3f86-4c90-bac8-106c548fa740" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sequence_operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sliceback.py" beforeDir="false" afterPath="$PROJECT_DIR$/sliceback.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WjQrrXnKq4JcPKvrLGkOhWmLwh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,28 +41,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Python.sliceback">
-    <configuration name="escapechar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/escapechar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sequence_operators">
     <configuration name="operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +55,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sequence_operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sequence_operators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sequence_operators" />
         <item itemvalue="Python.sliceback" />
         <item itemvalue="Python.strings2" />
         <item itemvalue="Python.operators" />
         <item itemvalue="Python.strings" />
-        <item itemvalue="Python.escapechar" />
       </list>
     </recent_temporary>
   </component>
@@ -193,26 +195,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="Sliceback file" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="979" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579669487376">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state x="979" y="346" key="#com.intellij.fileTypes.FileTypeChooser/49.23.1631.1027@49.23.1631.1027" timestamp="1579669487376" />
     <state x="664" y="139" key="CommitChangelistDialog2" timestamp="1579667867032">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
     <state x="664" y="139" key="CommitChangelistDialog2/49.23.1631.1027@49.23.1631.1027" timestamp="1579667867032" />
-    <state width="767" height="268" key="GridCell.Tab.0.bottom" timestamp="1579669244857">
+    <state width="912" height="268" key="GridCell.Tab.0.bottom" timestamp="1579669977478">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="767" height="268" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1579669244857" />
-    <state width="767" height="268" key="GridCell.Tab.0.center" timestamp="1579669244856">
+    <state width="912" height="268" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1579669977478" />
+    <state width="912" height="268" key="GridCell.Tab.0.center" timestamp="1579669977477">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="767" height="268" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1579669244856" />
-    <state width="767" height="268" key="GridCell.Tab.0.left" timestamp="1579669244856">
+    <state width="912" height="268" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1579669977477" />
+    <state width="912" height="268" key="GridCell.Tab.0.left" timestamp="1579669977477">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="767" height="268" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1579669244856" />
-    <state width="767" height="268" key="GridCell.Tab.0.right" timestamp="1579669244857">
+    <state width="912" height="268" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1579669977477" />
+    <state width="912" height="268" key="GridCell.Tab.0.right" timestamp="1579669977477">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="767" height="268" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1579669244857" />
+    <state width="912" height="268" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1579669977477" />
     <state x="926" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579667879213">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
